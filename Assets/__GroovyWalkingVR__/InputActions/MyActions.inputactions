@@ -1,0 +1,174 @@
+{
+    "name": "MyActions",
+    "maps": [
+        {
+            "name": "RightHandButtonInput",
+            "id": "361731fa-9396-4e33-8761-2d2991b16d26",
+            "actions": [
+                {
+                    "name": "RightHandButton",
+                    "type": "Button",
+                    "id": "75438c66-3ad0-4eb2-9c51-f94641a736bc",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "d753e098-4130-4a68-b50a-9229577b790b",
+                    "path": "<XRController>{RightHand}/{PrimaryButton}",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "RightHandButton",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        },
+        {
+            "name": "LeftHandButtonInput",
+            "id": "bd01158a-9c5b-4a73-bedb-90aef5f23e65",
+            "actions": [
+                {
+                    "name": "LeftHandButton",
+                    "type": "Button",
+                    "id": "73fd3866-e3cb-405d-8187-d22846a81779",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "20d23ef0-f581-472f-96d6-2c6da72bbdb0",
+                    "path": "<XRController>{LeftHand}/{PrimaryButton}",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "LeftHandButton",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        },
+        {
+            "name": "RightHandStickInput",
+            "id": "caf1b0db-02f3-46ed-8eb5-e7899840816e",
+            "actions": [
+                {
+                    "name": "RightHandStick",
+                    "type": "Value",
+                    "id": "eb9cdb22-a817-4c9c-9a1f-a15777ca56d3",
+                    "expectedControlType": "Vector2",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "916bd7e4-8470-479b-b073-5b5645859754",
+                    "path": "<XRController>{RightHand}/{Primary2DAxis}",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "RightHandStick",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        },
+        {
+            "name": "LeftHandStickInput",
+            "id": "30a86d62-0db6-470e-b98f-b9fd6d6fb247",
+            "actions": [
+                {
+                    "name": "LeftHandStick",
+                    "type": "Value",
+                    "id": "75fb5ef5-cd24-46a2-9f8a-21738a642602",
+                    "expectedControlType": "Vector2",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "ee872efa-8aff-4055-b8e9-e461dc8de9ed",
+                    "path": "<XRController>{LeftHand}/{Primary2DAxis}",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "LeftHandStick",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        },
+        {
+            "name": "RightHandStickButtonInput",
+            "id": "c92fc5ad-8beb-4f1f-b5a0-b114a24ea3cb",
+            "actions": [
+                {
+                    "name": "RightHandStickButton",
+                    "type": "Button",
+                    "id": "c0831b9b-1e98-40c6-b645-a31999fe8b8d",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "d079e729-7698-4dce-ab42-6d3bbc5912f1",
+                    "path": "<XRController>{RightHand}/{Primary2DAxisClick}",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "RightHandStickButton",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        },
+        {
+            "name": "LeftHandStickButtonInput",
+            "id": "275504da-d48a-4d67-a6b2-ea83e24755cc",
+            "actions": [
+                {
+                    "name": "LeftHandStickButton",
+                    "type": "Button",
+                    "id": "4e972084-e183-4101-b2b1-e9a672d6cb80",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "d2b2b4b3-43fc-4a61-a7a3-469c79a6532b",
+                    "path": "<XRController>{LeftHand}/{Primary2DAxisClick}",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "LeftHandStickButton",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

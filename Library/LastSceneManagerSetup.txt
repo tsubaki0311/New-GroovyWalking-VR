@@ -1,0 +1,13 @@
+sceneSetups:
+- path: Assets/Scenes/SampleScene.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
+- path: Assets/__GroovyWalkingVR__/Scenes/SimpleCity.unity
+  isLoaded: 1
+  isActive: 0
+  isSubScene: 0
+- path: Assets/__GroovyWalkingVR__/Scenes/Sample_VR.unity
+  isLoaded: 1
+  isActive: 0
+  isSubScene: 0
