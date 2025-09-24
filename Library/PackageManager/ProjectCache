@@ -6,8 +6,8 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638940668440570656
-    m_Hash: 3880721996
+      ticks: 638942985092631742
+    m_Hash: 4255604596
   m_LockFileStatus:
     m_FilePath: "C:/Users/harus/OneDrive/\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7/New
       GroovyWalking VR/Packages/packages-lock.json"
@@ -15,8 +15,8 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638940668440714994
-    m_Hash: 655725975
+      ticks: 638942983119175289
+    m_Hash: 1624081665
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
@@ -25,6 +25,178 @@ m_ProjectPath: "C:/Users/harus/OneDrive/\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7/New
   GroovyWalking VR/Packages"
 m_EditorVersion: 2022.3.14f1 (eff2de9070d8)
 m_ResolvedPackages:
+- packageId: com.cysharp.r3@https://github.com/Cysharp/R3.git?path=src/R3.Unity/Assets/R3.Unity
+  testable: 0
+  isDirectDependency: 1
+  version: 1.3.0
+  source: 5
+  resolvedPath: "C:\\Users\\harus\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\New
+    GroovyWalking VR\\Library\\PackageCache\\com.cysharp.r3@86d2556d55"
+  assetPath: Packages/com.cysharp.r3
+  name: com.cysharp.r3
+  displayName: R3
+  author:
+    name: Cysharp, Inc.
+    email: 
+    url: https://cysharp.co.jp/en/
+  category: Scripting
+  type: 
+  description: Reactive Extensions for Unity.
+  status: 0
+  errors: []
+  versions:
+    all:
+    - 0.1.1
+    - 0.1.2
+    - 0.1.3
+    - 0.1.4
+    - 0.1.5
+    - 0.1.6
+    - 0.1.7
+    - 0.1.8
+    - 0.1.9
+    - 0.1.10
+    - 0.1.11
+    - 0.1.12
+    - 0.1.13
+    - 0.1.15
+    - 0.1.16
+    - 0.1.17
+    - 0.1.18
+    - 0.1.19
+    - 0.1.20
+    - 0.1.21
+    - 0.1.22
+    - 0.1.23
+    - 1.0.0
+    - 1.0.1
+    - 1.0.2
+    - 1.0.3
+    - 1.0.4
+    - 1.1.0
+    - 1.1.1
+    - 1.1.2
+    - 1.1.3
+    - 1.1.4
+    - 1.1.5
+    - 1.1.6
+    - 1.1.7
+    - 1.1.8
+    - 1.1.9
+    - 1.1.10
+    - 1.1.11
+    - 1.1.12
+    - 1.1.13
+    - 1.1.14
+    - 1.1.15
+    - 1.1.16
+    - 1.2.0
+    - 1.2.1
+    - 1.2.2
+    - 1.2.3
+    - 1.2.4
+    - 1.2.5
+    - 1.2.6
+    - 1.2.7
+    - 1.2.8
+    - 1.2.9
+    - 1.3.0
+    compatible:
+    - 0.1.1
+    - 0.1.2
+    - 0.1.3
+    - 0.1.4
+    - 0.1.5
+    - 0.1.6
+    - 0.1.7
+    - 0.1.8
+    - 0.1.9
+    - 0.1.10
+    - 0.1.11
+    - 0.1.12
+    - 0.1.13
+    - 0.1.15
+    - 0.1.16
+    - 0.1.17
+    - 0.1.18
+    - 0.1.19
+    - 0.1.20
+    - 0.1.21
+    - 0.1.22
+    - 0.1.23
+    - 1.0.0
+    - 1.0.1
+    - 1.0.2
+    - 1.0.3
+    - 1.0.4
+    - 1.1.0
+    - 1.1.1
+    - 1.1.2
+    - 1.1.3
+    - 1.1.4
+    - 1.1.5
+    - 1.1.6
+    - 1.1.7
+    - 1.1.8
+    - 1.1.9
+    - 1.1.10
+    - 1.1.11
+    - 1.1.12
+    - 1.1.13
+    - 1.1.14
+    - 1.1.15
+    - 1.1.16
+    - 1.2.0
+    - 1.2.1
+    - 1.2.2
+    - 1.2.3
+    - 1.2.4
+    - 1.2.5
+    - 1.2.6
+    - 1.2.7
+    - 1.2.8
+    - 1.2.9
+    - 1.3.0
+    recommended: 
+    deprecated: []
+  dependencies:
+  - name: com.unity.modules.imgui
+    version: 1.0.0
+  resolvedDependencies:
+  - name: com.unity.modules.imgui
+    version: 1.0.0
+  keywords:
+  - rx
+  - event
+  - Scripting
+  registry:
+    id: scoped:project:OpenUPM
+    name: OpenUPM
+    url: https://package.openupm.com
+    scopes:
+    - com.cysharp
+    - org.nuget
+    isDefault: 0
+    capabilities: 0
+    configSource: 4
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 0
+  documentationUrl: 
+  hasRepository: 0
+  repository:
+    type: 
+    url: 
+    revision: 
+    path: 
+  unityLifecycle:
+    version: 
+    nextVersion: 
+    recommendedVersion: 
+    isDeprecated: 0
+    deprecationMessage: 
+  isDeprecated: 0
+  deprecationMessage: 
 - packageId: com.cysharp.unitask@https://github.com/Cysharp/UniTask.git?path=src/UniTask/Assets/Plugins/UniTask
   testable: 0
   isDirectDependency: 1
@@ -45,8 +217,138 @@ m_ResolvedPackages:
   status: 0
   errors: []
   versions:
-    all: []
-    compatible: []
+    all:
+    - 1.2.0
+    - 1.3.0
+    - 1.3.1
+    - 2.0.1-preview2
+    - 2.0.2-preview3
+    - 2.0.3-preview4
+    - 2.0.4-rc1
+    - 2.0.5-rc2
+    - 2.0.6-rc3
+    - 2.0.7-rc4
+    - 2.0.8-rc5
+    - 2.0.9-rc6
+    - 2.0.10-rc7
+    - 2.0.11-rc8
+    - 2.0.12-rc9
+    - 2.0.13
+    - 2.0.14
+    - 2.0.15
+    - 2.0.16
+    - 2.0.17
+    - 2.0.18
+    - 2.0.19
+    - 2.0.20
+    - 2.0.21
+    - 2.0.22
+    - 2.0.23
+    - 2.0.24
+    - 2.0.25
+    - 2.0.26
+    - 2.0.27
+    - 2.0.28
+    - 2.0.30
+    - 2.0.31
+    - 2.0.32
+    - 2.0.33
+    - 2.0.34
+    - 2.0.35
+    - 2.0.36
+    - 2.0.37
+    - 2.1.0
+    - 2.1.1
+    - 2.1.2
+    - 2.2.0
+    - 2.2.1
+    - 2.2.2
+    - 2.2.3
+    - 2.2.4
+    - 2.2.5
+    - 2.3.0
+    - 2.3.1
+    - 2.3.2
+    - 2.3.3
+    - 2.4.0
+    - 2.4.1
+    - 2.5.0
+    - 2.5.1
+    - 2.5.2
+    - 2.5.3
+    - 2.5.4
+    - 2.5.5
+    - 2.5.6
+    - 2.5.7
+    - 2.5.8
+    - 2.5.9
+    - 2.5.10
+    compatible:
+    - 1.2.0
+    - 1.3.0
+    - 1.3.1
+    - 2.0.1-preview2
+    - 2.0.2-preview3
+    - 2.0.3-preview4
+    - 2.0.4-rc1
+    - 2.0.5-rc2
+    - 2.0.6-rc3
+    - 2.0.7-rc4
+    - 2.0.8-rc5
+    - 2.0.9-rc6
+    - 2.0.10-rc7
+    - 2.0.11-rc8
+    - 2.0.12-rc9
+    - 2.0.13
+    - 2.0.14
+    - 2.0.15
+    - 2.0.16
+    - 2.0.17
+    - 2.0.18
+    - 2.0.19
+    - 2.0.20
+    - 2.0.21
+    - 2.0.22
+    - 2.0.23
+    - 2.0.24
+    - 2.0.25
+    - 2.0.26
+    - 2.0.27
+    - 2.0.28
+    - 2.0.30
+    - 2.0.31
+    - 2.0.32
+    - 2.0.33
+    - 2.0.34
+    - 2.0.35
+    - 2.0.36
+    - 2.0.37
+    - 2.1.0
+    - 2.1.1
+    - 2.1.2
+    - 2.2.0
+    - 2.2.1
+    - 2.2.2
+    - 2.2.3
+    - 2.2.4
+    - 2.2.5
+    - 2.3.0
+    - 2.3.1
+    - 2.3.2
+    - 2.3.3
+    - 2.4.0
+    - 2.4.1
+    - 2.5.0
+    - 2.5.1
+    - 2.5.2
+    - 2.5.3
+    - 2.5.4
+    - 2.5.5
+    - 2.5.6
+    - 2.5.7
+    - 2.5.8
+    - 2.5.9
+    - 2.5.10
     recommended: 
     deprecated: []
   dependencies: []
@@ -57,13 +359,15 @@ m_ResolvedPackages:
   - Task
   - UniTask
   registry:
-    id: main
-    name: 
-    url: https://packages.unity.com
-    scopes: []
-    isDefault: 1
-    capabilities: 7
-    configSource: 0
+    id: scoped:project:OpenUPM
+    name: OpenUPM
+    url: https://package.openupm.com
+    scopes:
+    - com.cysharp
+    - org.nuget
+    isDefault: 0
+    capabilities: 0
+    configSource: 4
   hideInEditor: 1
   isAssetStorePackage: 0
   datePublishedTicks: 0
@@ -1172,11 +1476,13 @@ m_ResolvedPackages:
     - 4.4.1
     - 4.5.0
     - 4.5.1
+    - 4.5.2
     compatible:
     - 4.4.0
     - 4.4.1
     - 4.5.0
     - 4.5.1
+    - 4.5.2
     recommended: 4.4.1
     deprecated: []
   dependencies:
